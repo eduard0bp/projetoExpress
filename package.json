@@ -1,0 +1,27 @@
+{
+  "name": "projetoexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduard0bp/projetoExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduard0bp/projetoExpress/issues"
+  },
+  "homepage": "https://github.com/eduard0bp/projetoExpress#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
